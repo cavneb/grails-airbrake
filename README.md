@@ -4,8 +4,6 @@ This is the notifier gem for integrating apps with [Airbrake](http://airbrake.io
 
 When an uncaught exception occurs, Airbrake will POST the relevant data to the Airbrake server specified in your environment.
 
-*Screenshots to follow*
-
 # Installation
 
 Currently the plugin doesn't reside in the Grails plugin repository. Installation instructions to follow.
