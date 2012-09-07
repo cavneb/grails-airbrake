@@ -11,7 +11,7 @@ Log exceptions to Airbrake
     <resource>Config</resource>
     <resource>DataSource</resource>
     <resource>UrlMappings</resource>
-    <resource>TestController</resource>
+    <resource>AirbrakeTestController</resource>
   </resources>
   <dependencies />
   <behavior />
