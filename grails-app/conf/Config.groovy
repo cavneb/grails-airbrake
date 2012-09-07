@@ -32,3 +32,5 @@ log4j = {
       debug 'stdout', 'airbrake'
     }
 }
+grails.views.default.codec="none" // none, html, base64
+grails.views.gsp.encoding="UTF-8"
